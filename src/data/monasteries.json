@@ -1,18 +1,56 @@
 [
   {
-    "id": 1,
+    "id": "rumtek-monastery",
     "name": "Rumtek Monastery",
-    "description": "A 16th century monastery, one of the most significant in Sikkim.",
-    "lat": 27.332,
-    "lng": 88.62,
-    "audio": "/naan_khatai.mp3"
+    "rooms": [
+      {
+        "id": "library",
+        "name": "Library",
+        "qrs": [
+          {
+            "id": "qr-rumtek-lib-1",
+            "code": "RUMTEK-LIB-QR1",
+            "title": "Ancient Scrolls",
+            "folktale": "This is the folktale about the ancient scrolls of Rumtek."
+          },
+          {
+            "id": "qr-rumtek-lib-2",
+            "code": "RUMTEK-LIB-QR2",
+            "title": "Hidden Margin Notes",
+            "folktale": "A story about hidden margin notes that saved a manuscript."
+          }
+        ]
+      },
+      {
+        "id": "prayer-hall",
+        "name": "Prayer Hall",
+        "qrs": [
+          {
+            "id": "qr-rumtek-hall-1",
+            "code": "RUMTEK-HALL-QR1",
+            "title": "Monks' Ritual",
+            "folktale": "Folktale about the monks’ morning ritual and its origin."
+          }
+        ]
+      }
+    ]
   },
   {
-    "id": 2,
+    "id": "pemayangtse",
     "name": "Pemayangtse Monastery",
-    "description": "Founded in the 17th century, known for its exquisite murals.",
-    "lat": 27.3,
-    "lng": 88.25,
-    "audio": ""
+    "rooms": [
+      {
+        "id": "main-hall",
+        "name": "Main Hall",
+        "qrs": [
+          {
+            "id": "qr-pem-hall-1",
+            "code": "PEM-HALL-QR1",
+            "title": "The Painted Ceiling",
+            "folktale": "The story of the painted ceiling and the artist."
+          }
+        ]
+      }
+    ]
   }
 ]
