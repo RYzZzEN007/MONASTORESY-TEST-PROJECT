@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Rumtek Monastery",
+    "description": "A 16th century monastery, one of the most significant in Sikkim.",
+    "lat": 27.332,
+    "lng": 88.62,
+    "audio": "/naan_khatai.mp3"
+  },
+  {
+    "id": 2,
+    "name": "Pemayangtse Monastery",
+    "description": "Founded in the 17th century, known for its exquisite murals.",
+    "lat": 27.3,
+    "lng": 88.25,
+    "audio": ""
+  }
+]
